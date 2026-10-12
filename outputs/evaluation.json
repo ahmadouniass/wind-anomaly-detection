@@ -1,0 +1,8 @@
+{
+  "rappel_global": 0.895,
+  "diagnostic_correct": 1.0,
+  "precision": 1.0,
+  "perte_vraie_mwh": 322.947,
+  "perte_estimee_mwh": 309.137,
+  "faux_positifs": 0.0
+}
